@@ -1,5 +1,5 @@
 ---
-abstract: unknown
+abstract: 'Get global count of allocated SVs'
 author:
   - 'Rafael Garcia-Suarez <rgs@consttype.org>'
 build_requires:
@@ -18,4 +18,4 @@ no_index:
     - t
     - inc
 requires: {}
-version: 0.01
+version: 0.02

@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "Get global count of allocated SVs",
    "author" : [
       "Rafael Garcia-Suarez <rgs@consttype.org>"
    ],
@@ -35,5 +35,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }
